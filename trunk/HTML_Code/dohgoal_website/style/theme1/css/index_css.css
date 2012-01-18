@@ -75,7 +75,7 @@ img{ border: none;}
 	
 		/* Search box */
 		.search{margin-left:0px; margin-right:0px; padding-left: 0px; padding-right: 0px; height: 21px; float:right; padding-right: 0px;}
-			.search_input{ margin: 0, auto; width: 118px; height: 20px; background: url(../images/searchbg.png) repeat-x; border: 0px; float: left}
+			.search_input{ margin: 0, auto; width: 118px; height: 20px; background: url(../images/searchbg.png) repeat-x; border: 0px; float: left; color:#999; padding-top:3.5px;}
 			.search_button{ background: url(../images/searchbg.png) repeat-x; padding-top: 5px; padding-bottom: 5px; width: 10px; height: auto; border: 0px; float: left}
 			.search_content{ width: auto; float: left;}
 			.search_borderleft{width: 1px; background: url(../images/searchborderleft.png) no-repeat; height: 20px; float: left;}
