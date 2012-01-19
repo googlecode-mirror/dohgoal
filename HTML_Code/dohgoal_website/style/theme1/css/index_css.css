@@ -5,7 +5,7 @@ body{ margin: 0px auto; padding: 0px; width: auto; text-align: center; font-size
 
 a{ text-decoration: none;}
 a:hover{ color: #605f5f;}
-ul{ margin: 0px;}
+ul{ margin: 0px; padding:0px;}
 li{ list-style-type: none;}
 em{ font-style: normal;}
 b{ font-weight: lighter; color: #fc6400;}
@@ -123,7 +123,7 @@ img{ border: none;}
 		.middle_content_title a:hover{ color: #2c1c17;}
 		
 		.middle_content_list{ width: auto; height: 360px;text-align: left;}
-		.middle_content_list ul{ margin-left: -10px;}
+		.middle_content_list ul{ margin-left: 10px;}
 		.middle_content_list li{ margin-bottom: 9px; text-overflow:ellipsis; overflow:hidden; white-space:nowrap; width: 260px;}
 		.middle_content_list a{ font-size: 16px; color: #515966; font-family:"黑体"; }
 		.middle_content_list a:hover{ color: #333;}
